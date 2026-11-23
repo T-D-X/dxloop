@@ -18,14 +18,14 @@ Subagents are used only above a size threshold: for broad code searches, indepen
 ### Claude Code
 
 ```shell
-/plugin marketplace add OWNER/dxloop
+/plugin marketplace add T-D-X/dxloop
 /plugin install dxloop@dxloop
 ```
 
 Or from your shell:
 
 ```shell
-claude plugin marketplace add OWNER/dxloop
+claude plugin marketplace add T-D-X/dxloop
 claude plugin install dxloop@dxloop
 ```
 
@@ -33,7 +33,7 @@ The skill triggers automatically on feature and bug requests. To call it by hand
 
 ### Claude.ai and the Claude desktop app
 
-1. Download `dxloop.zip` from the [latest release](https://github.com/OWNER/dxloop/releases/latest).
+1. Download `dxloop.zip` from the [latest release](https://github.com/T-D-X/dxloop/releases/latest).
 2. In Claude, go to **Customize > Skills**, click **+**, then **+ Create skill > Upload a skill**.
 3. Upload the zip.
 
