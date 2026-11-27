@@ -1,12 +1,12 @@
 {
-  "name": "dxloop",
-  "description": "dxloop: a structured feature/bug-fix workflow skill for Claude",
+  "name": "dxsco-room",
+  "description": "dxsco-room: a structured feature/bug-fix workflow skill for Claude",
   "owner": {
     "name": "DX"
   },
   "plugins": [
     {
-      "name": "dxloop",
+      "name": "dxsco-room",
       "source": "./",
       "description": "Feature/bug workflow: DoD, context, repro, questions, plan, change, proof"
     }

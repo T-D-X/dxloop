@@ -1,5 +1,5 @@
 {
-  "name": "dxloop",
+  "name": "dxsco-room",
   "description": "Structured workflow for features and bug fixes in an existing codebase: definition of done, context, repro, questions, plan approval, change, proof.",
   "version": "1.0.0",
   "author": {

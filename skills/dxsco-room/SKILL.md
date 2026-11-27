@@ -1,9 +1,9 @@
 ---
-name: dxloop
-description: Structured workflow for building a feature or fixing a bug in an existing codebase: definition of done, context gathering, repro, clarifying questions, plan approval, change, proof. Use for any feature, bug, or fix request in a repo.
+name: dxsco-room
+description: Workflow for features and bug fixes in an existing codebase: definition of done, context, repro, questions, plan approval, change, proof. Use for any feature, bug or fix request in a repo.
 ---
 
-# dxloop
+# dxsco-room
 
 A disciplined loop for changing an existing codebase, whether that's a new feature, a bug fix, or a behaviour change. The point of the loop is that the code gets written *after* we agree on what "done" means and how we'll get there. Rework from a misunderstood requirement costs far more than one extra round of questions.
 
